@@ -6,9 +6,8 @@ public class TestClass {
 		// TODO Auto-generated method stub
 //hgfhgjghjkjjhg
 //jhjhgjhgjhhAdded from eclipse	kvbkfddfdjk
-		///cnafhsdjghhg
-//hhh
-		//nkhfdhd
+//thisis not what we want
+		//True
 //pqrstu
 	}
 
